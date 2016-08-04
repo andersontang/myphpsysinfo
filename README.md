@@ -1,4 +1,4 @@
-phpSysInfo
+myphpSysInfo
 ==============
 
 * Copyright (c), 1999-2008, Uriah Welcome (precision@users.sf.net)
